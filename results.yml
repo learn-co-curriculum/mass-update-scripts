@@ -1,0 +1,1237 @@
+---
+:name: Software Engineering Phase 0
+:id: 3280
+:modules:
+- :id: 15204
+  :name: Welcome to the Course
+  :lessons:
+  - id: welcome
+    title: Welcome
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142620
+    page_url: welcome
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/welcome
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: about-this-course
+    title: About This Course
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142621
+    page_url: about-this-course
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/about-this-course
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: how-to-get-help
+    title: How to Get Help
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142622
+    page_url: how-to-get-help
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/how-to-get-help
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 15205
+  :name: Intro to Canvas
+  :lessons:
+  - id: intro-to-canvas
+    title: Intro to Canvas
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142623
+    page_url: intro-to-canvas
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/intro-to-canvas
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: navigating-canvas
+    title: Navigating Canvas
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142624
+    page_url: navigating-canvas
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/navigating-canvas
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: lesson-types
+    title: Lesson Types
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142625
+    page_url: lesson-types
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/lesson-types
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: introduction-to-the-local-environment-setup-instructions
+    title: Introduction to the Local Environment Setup Instructions
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142626
+    page_url: introduction-to-the-local-environment-setup-instructions
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-the-local-environment-setup-instructions
+    published: true
+    repository: ''
+- :id: 20422
+  :name: Pre-Assessment
+  :lessons:
+  - id: '13330'
+    title: Pre-Assessment
+    indent: 0
+    type: Quiz
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/187960
+    url: https://learning.flatironschool.com/api/v1/courses/3280/quizzes/13330
+    completion_requirement:
+      type: must_submit
+    published: false
+    repository: ''
+- :id: 15206
+  :name: MacOS Environment Setup
+  :lessons:
+  - id: introduction-to-macos-environment-setup
+    title: Introduction to MacOS Environment Setup
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142627
+    page_url: introduction-to-macos-environment-setup
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-macos-environment-setup
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: macos-system-setup
+    title: MacOS System Setup
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142628
+    page_url: macos-system-setup
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/macos-system-setup
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: mac-nodejs-install
+    title: Mac NodeJS Install
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142629
+    page_url: mac-nodejs-install
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/mac-nodejs-install
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: mac-ruby-install
+    title: Mac Ruby Install
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142630
+    page_url: mac-ruby-install
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/mac-ruby-install
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: mac-git-and-github-configuration
+    title: Mac Git and GitHub Configuration
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142631
+    page_url: mac-git-and-github-configuration
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/mac-git-and-github-configuration
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: mac-environment-verification-slash-troubleshooting
+    title: Mac Environment Verification/Troubleshooting
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142632
+    page_url: mac-environment-verification-slash-troubleshooting
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/mac-environment-verification-slash-troubleshooting
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 18179
+  :name: Windows Environment Setup
+  :lessons:
+  - id: introduction-to-windows-subsystem-for-linux-wsl2-environment-setup
+    title: Introduction to Windows Subsystem for Linux (WSL2) Environment Setup
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142633
+    page_url: introduction-to-windows-subsystem-for-linux-wsl2-environment-setup
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-windows-subsystem-for-linux-wsl2-environment-setup
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: windows-system-setup
+    title: Windows System Setup
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142634
+    page_url: windows-system-setup
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/windows-system-setup
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: windows-wsl2-installation
+    title: Windows WSL2 Installation
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142635
+    page_url: windows-wsl2-installation
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/windows-wsl2-installation
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: windows-wsl2-nodejs-installation
+    title: Windows WSL2 NodeJS Installation
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142636
+    page_url: windows-wsl2-nodejs-installation
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/windows-wsl2-nodejs-installation
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: windows-wsl2-ruby-installation
+    title: Windows WSL2 Ruby Installation
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142637
+    page_url: windows-wsl2-ruby-installation
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/windows-wsl2-ruby-installation
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: windows-wsl-git-slash-github-setup
+    title: Windows WSL Git/GitHub Setup
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142638
+    page_url: windows-wsl-git-slash-github-setup
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/windows-wsl-git-slash-github-setup
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: windows-environment-verification-slash-troubleshooting
+    title: Windows Environment Verification/Troubleshooting
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142639
+    page_url: windows-environment-verification-slash-troubleshooting
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/windows-environment-verification-slash-troubleshooting
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 18181
+  :name: Alternative Environment Setup Instructions
+  :lessons:
+  - id: aws-cloud9-environment-setup
+    title: AWS Cloud9 Environment Setup
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142640
+    page_url: aws-cloud9-environment-setup
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/aws-cloud9-environment-setup
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 15207
+  :name: CLI
+  :lessons:
+  - id: introduction-to-the-command-line-interface
+    title: Introduction to the Command Line Interface
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142641
+    page_url: introduction-to-the-command-line-interface
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-the-command-line-interface
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: bash-navigation
+    title: Bash Navigation
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142642
+    page_url: bash-navigation
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/bash-navigation
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: navigating-files-and-directories-in-bash
+    title: Navigating Files and Directories in Bash
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142643
+    page_url: navigating-files-and-directories-in-bash
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/navigating-files-and-directories-in-bash
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: bash-programming
+    title: Bash Programming
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142644
+    page_url: bash-programming
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/bash-programming
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: organizing-your-work-for-this-course
+    title: Organizing Your Work for this Course
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142645
+    page_url: organizing-your-work-for-this-course
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/organizing-your-work-for-this-course
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73666'
+    title: Complete Your First Software Engineering Assignment
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142646
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73666
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 15208
+  :name: Git
+  :lessons:
+  - id: intro-to-version-control
+    title: Intro to Version Control
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142647
+    page_url: intro-to-version-control
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/intro-to-version-control
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: git-basics
+    title: Git Basics
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142648
+    page_url: git-basics
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/git-basics
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: getting-code-with-git
+    title: Getting Code with Git
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142649
+    page_url: getting-code-with-git
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/getting-code-with-git
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: pushing-code-with-git
+    title: Pushing Code with Git
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142650
+    page_url: pushing-code-with-git
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/pushing-code-with-git
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73667'
+    title: Git Basics Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142651
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73667
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 15209
+  :name: HTML
+  :lessons:
+  - id: a-quick-tour-of-the-web
+    title: A Quick Tour of the Web
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142652
+    page_url: a-quick-tour-of-the-web
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/a-quick-tour-of-the-web
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: welcome-to-html
+    title: Welcome to HTML
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142653
+    page_url: welcome-to-html
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/welcome-to-html
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: files-extensions-and-file-types
+    title: Files, Extensions, and File Types
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142654
+    page_url: files-extensions-and-file-types
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/files-extensions-and-file-types
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73668'
+    title: Experiencing HTML Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142655
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73668
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73669'
+    title: Document Structure Continued
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142656
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73669
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73670'
+    title: Your First HTML Tag Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142657
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73670
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: nested-html-tags-and-attributes
+    title: Nested HTML Tags And Attributes
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142658
+    page_url: nested-html-tags-and-attributes
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/nested-html-tags-and-attributes
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73671'
+    title: Create a Link Using the href Attribute
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142659
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73671
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: html-lists-images-and-links
+    title: HTML Lists, Images and Links
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142660
+    page_url: html-lists-images-and-links
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/html-lists-images-and-links
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73672'
+    title: HTML Lists
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142661
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73672
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73673'
+    title: HTML Tables
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142662
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73673
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73674'
+    title: HTML Images
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142663
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73674
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: html-validation
+    title: HTML Validation
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142664
+    page_url: html-validation
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/html-validation
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: expanding-your-html-vocabulary-via-mdn
+    title: Expanding Your HTML Vocabulary via MDN
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142665
+    page_url: expanding-your-html-vocabulary-via-mdn
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/expanding-your-html-vocabulary-via-mdn
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: researching-html-elements
+    title: Researching HTML Elements
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142666
+    page_url: researching-html-elements
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/researching-html-elements
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73675'
+    title: HTML Issue Bot 9000
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142667
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73675
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: using-your-browsers-developer-tools
+    title: Using Your Browser's Developer Tools
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142668
+    page_url: using-your-browsers-developer-tools
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/using-your-browsers-developer-tools
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73676'
+    title: HTML Album Cover
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142669
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73676
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73677'
+    title: Riyadh Blog
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142670
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73677
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 15210
+  :name: CSS
+  :lessons:
+  - id: intro-to-css
+    title: Intro to CSS
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142671
+    page_url: intro-to-css
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/intro-to-css
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73678'
+    title: Introduction to CSS Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142672
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73678
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: css-fundamentals
+    title: CSS Fundamentals
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142673
+    page_url: css-fundamentals
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/css-fundamentals
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73679'
+    title: Introduction to CSS Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142674
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73679
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73858'
+    title: 'CSS Validation Lab: Issue Bot 9000'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/143216
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73858
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73680'
+    title: My Little Rainbow
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142676
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73680
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73681'
+    title: CSS Kitten Wheelbarrow
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142677
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73681
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73682'
+    title: CSS Graffiti Override Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142678
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73682
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 15211
+  :name: 'Programming as Conversation Part 1: Expressions'
+  :lessons:
+  - id: introduction-to-programming-as-conversation
+    title: Introduction to Programming as Conversation
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142679
+    page_url: introduction-to-programming-as-conversation
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-programming-as-conversation
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: expressions-in-javascript
+    title: Expressions in JavaScript
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142680
+    page_url: expressions-in-javascript
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/expressions-in-javascript
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: the-constant-expression
+    title: The Constant Expression
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142681
+    page_url: the-constant-expression
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/the-constant-expression
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: the-assignment-expression
+    title: The Assignment Expression
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142682
+    page_url: the-assignment-expression
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/the-assignment-expression
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: the-variable-lookup-expression
+    title: The Variable Lookup Expression
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142683
+    page_url: the-variable-lookup-expression
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/the-variable-lookup-expression
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: javascript-variables
+    title: JavaScript Variables
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142684
+    page_url: javascript-variables
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/javascript-variables
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: javascript-data-types
+    title: JavaScript Data Types
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142685
+    page_url: javascript-data-types
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/javascript-data-types
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: working-with-strings
+    title: Working With Strings
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142686
+    page_url: working-with-strings
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/working-with-strings
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: booleans
+    title: Booleans
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142687
+    page_url: booleans
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/booleans
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: comparisons-in-javascript
+    title: Comparisons in JavaScript
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142688
+    page_url: comparisons-in-javascript
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/comparisons-in-javascript
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: logical-operators
+    title: Logical Operators
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142689
+    page_url: logical-operators
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/logical-operators
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: programming-with-expressions
+    title: Programming with Expressions
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142690
+    page_url: programming-with-expressions
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/programming-with-expressions
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 15212
+  :name: 'Programming as Conversation Part 2: Statements'
+  :lessons:
+  - id: programming-as-conversation-2-introduction
+    title: 'Programming as Conversation 2: Introduction'
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142691
+    page_url: programming-as-conversation-2-introduction
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/programming-as-conversation-2-introduction
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: default-sequence-and-comments
+    title: Default Sequence and Comments
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142692
+    page_url: default-sequence-and-comments
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/default-sequence-and-comments
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: selection-with-conditionals-the-if-statement
+    title: 'Selection with Conditionals: the if Statement'
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142693
+    page_url: selection-with-conditionals-the-if-statement
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/selection-with-conditionals-the-if-statement
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: variation-on-selection
+    title: Variation on Selection
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142694
+    page_url: variation-on-selection
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/variation-on-selection
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: logging-in-javascript
+    title: Logging in JavaScript
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142695
+    page_url: logging-in-javascript
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/logging-in-javascript
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: repetition-the-while-loop
+    title: 'Repetition: the while Loop'
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142696
+    page_url: repetition-the-while-loop
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/repetition-the-while-loop
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 15213
+  :name: 'Programming as Conversation Part 3: Bundling Expressions and Statements
+    into Functions'
+  :lessons:
+  - id: programming-as-conversation-part-3-introduction
+    title: 'Programming as Conversation Part 3: Introduction'
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142697
+    page_url: programming-as-conversation-part-3-introduction
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/programming-as-conversation-part-3-introduction
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73683'
+    title: Testing With Javascript
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142698
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73683
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73684'
+    title: Testing with JavaScript Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142699
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73684
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: introduction-to-functions-in-javascript
+    title: Introduction to Functions in JavaScript
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142700
+    page_url: introduction-to-functions-in-javascript
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-functions-in-javascript
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73685'
+    title: Introduction to Functions Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142701
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73685
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73686'
+    title: Function Parameters Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142702
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73686
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73687'
+    title: JavaScript Calculator Challenge Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142703
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73687
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 15214
+  :name: Working with Data Structures
+  :lessons:
+  - id: introduction-to-working-with-data-structures
+    title: Introduction to Working with Data Structures
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142704
+    page_url: introduction-to-working-with-data-structures
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-working-with-data-structures
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: arrays
+    title: Arrays
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142705
+    page_url: arrays
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/arrays
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: array-methods
+    title: Array Methods
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142706
+    page_url: array-methods
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/array-methods
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73688'
+    title: Arrays Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142707
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73688
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: objects
+    title: Objects
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142708
+    page_url: objects
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/objects
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: modifying-objects
+    title: Modifying Objects
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142709
+    page_url: modifying-objects
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/modifying-objects
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73689'
+    title: Objects Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142710
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73689
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: debugging-in-node
+    title: Debugging in Node
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142711
+    page_url: debugging-in-node
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/debugging-in-node
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: errors-and-stack-traces
+    title: Errors and Stack Traces
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142712
+    page_url: errors-and-stack-traces
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/errors-and-stack-traces
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73690'
+    title: Looping Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142713
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73690
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: object-iteration
+    title: Object Iteration
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142714
+    page_url: object-iteration
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/object-iteration
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: traversing-nested-objects
+    title: Traversing Nested Objects
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142715
+    page_url: traversing-nested-objects
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/traversing-nested-objects
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 15215
+  :name: Manipulating the DOM
+  :lessons:
+  - id: introduction-to-the-dom
+    title: Introduction to the DOM
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142716
+    page_url: introduction-to-the-dom
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/introduction-to-the-dom
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73691'
+    title: DOM Editing Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142717
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73691
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: changing-the-dom-with-devtools-and-javascript
+    title: Changing The DOM with DevTools and JavaScript
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142718
+    page_url: changing-the-dom-with-devtools-and-javascript
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/changing-the-dom-with-devtools-and-javascript
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: the-dom-is-a-tree
+    title: The DOM Is a Tree
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142719
+    page_url: the-dom-is-a-tree
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/the-dom-is-a-tree
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: javascript-query-selector-methods
+    title: JavaScript Query Selector Methods
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142720
+    page_url: javascript-query-selector-methods
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/javascript-query-selector-methods
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73692'
+    title: Creating and Inserting DOM Nodes Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142721
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73692
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 15216
+  :name: JavaScript Events
+  :lessons:
+  - id: javascript-events
+    title: JavaScript Events
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142722
+    page_url: javascript-events
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/javascript-events
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '73693'
+    title: JavaScript Event Listeners Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142723
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73693
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73694'
+    title: Moving Things with JavaScript by Acting on Events
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142724
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/73694
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 15217
+  :name: Project Mode
+  :lessons:
+  - id: hosting-a-website-on-github-pages
+    title: Hosting a Website on GitHub Pages
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142725
+    page_url: hosting-a-website-on-github-pages
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/hosting-a-website-on-github-pages
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: project-build-a-personal-website
+    title: 'Project: Build a Personal Website'
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/142726
+    page_url: project-build-a-personal-website
+    url: https://learning.flatironschool.com/api/v1/courses/3280/pages/project-build-a-personal-website
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 18159
+  :name: End of Phase Assessment
+  :lessons:
+  - id: '11661'
+    title: Phase 0/Pre-Work Assessment
+    indent: 0
+    type: Quiz
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/167893
+    url: https://learning.flatironschool.com/api/v1/courses/3280/quizzes/11661
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 18158
+  :name: Preparing for Phase 1
+  :lessons:
+  - id: '85930'
+    title: Configuring the Flatiron Student Portal
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3280/modules/items/167895
+    url: https://learning.flatironschool.com/api/v1/courses/3280/assignments/85930
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
